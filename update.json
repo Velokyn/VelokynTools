@@ -1,5 +1,5 @@
-{
-  "version": "1.0.1",
-  "changelog": "First release",
-  "url": "https://github.com/Velokyn/VelokynTools/releases/download/v1.0.1/VelokynTools.zip"
-}
+   {
+     "version": "1.0.3",
+     "changelog": "Subtitles now use Deepgram. Free APIs, smaller help text, beat markers on the comp, saved keys, automatic updates.",
+     "url": "https://github.com/Velokyn/VelokynTools/releases/latest/download/VelokynTools.zip"
+   }
