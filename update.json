@@ -1,5 +1,5 @@
-   {
-     "version": "1.0.3",
-     "changelog": "Subtitles now use Deepgram. Free APIs, smaller help text, beat markers on the comp, saved keys, automatic updates.",
-     "url": "https://github.com/Velokyn/VelokynTools/releases/latest/download/VelokynTools.zip"
-   }
+{
+  "version": "1.0.5",
+  "changelog": "Discord rich presence is now set up.",
+  "url": "https://github.com/Velokyn/VelokynTools/releases/latest/download/VelokynTools.zip"
+}
