@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
-  "changelog": "Subtitles now work on pre-comps and cut clips: select the clip(s) or pre-comp and captions follow your cuts. Fixed 'No speech found' when a pre-comp was selected.",
+  "version": "1.0.8",
+  "changelog": "Subtitles now skip anything you can't hear: muted clips and parts where the audio level is pulled right down (also inside pre-comps).",
   "url": "https://github.com/Velokyn/VelokynTools/releases/latest/download/VelokynTools.zip"
 }
