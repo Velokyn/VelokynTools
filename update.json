@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
-  "changelog": "Subtitles: pick text colour, outline, font and position (top/middle/bottom). New fade, pop, slide, letter-by-letter and word-by-word animations. Captions now only go into the open comp.",
+  "version": "1.0.7",
+  "changelog": "Subtitles now work on pre-comps and cut clips: select the clip(s) or pre-comp and captions follow your cuts. Fixed 'No speech found' when a pre-comp was selected.",
   "url": "https://github.com/Velokyn/VelokynTools/releases/latest/download/VelokynTools.zip"
 }
