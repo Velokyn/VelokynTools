@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
-  "changelog": "Discord rich presence is now set up.",
+  "version": "1.0.6",
+  "changelog": "Subtitles: pick text colour, outline, font and position (top/middle/bottom). New fade, pop, slide, letter-by-letter and word-by-word animations. Captions now only go into the open comp.",
   "url": "https://github.com/Velokyn/VelokynTools/releases/latest/download/VelokynTools.zip"
 }
